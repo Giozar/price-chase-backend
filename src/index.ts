@@ -1,5 +1,6 @@
 import app from './app/app'
+import { port } from './config/index';
 
-app.listen(process.env.PORT);
+app.listen(port);
 
-console.log('Corriendo en el puerto', process.env.PORT);
+console.log('Corriendo en el puerto', port);
