@@ -39,6 +39,7 @@ export class PriceService {
                 description: 'Por kilo',
                 price,
                 store,
+                imageUrl: '',
                 lastChecked: new Date().toISOString()
             };
             allPrices.push(product);

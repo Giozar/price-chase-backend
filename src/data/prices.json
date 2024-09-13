@@ -2,36 +2,41 @@
   {
     "name": "Jitomate Saladet",
     "description": "Por kilo",
-    "price": 0,
+    "price": 44.90,
     "store": "Walmart",
+    "imageUrl": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00000000004087L.jpg",
     "lastChecked": "2024-09-13T08:58:02.647Z"
   },
   {
     "name": "Jitomate Saladet",
     "description": "Por kilo",
-    "price": 0,
+    "price": 19.90,
     "store": "Soriana",
+    "imageUrl": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwce611a30/images/product/0000000005548_A.jpg",
     "lastChecked": "2024-09-13T08:58:04.791Z"
   },
   {
     "name": "Jitomate Saladet",
     "description": "Por kilo",
-    "price": 0,
+    "price": 36.90,
     "store": "Chedraui",
+    "imageUrl": "https://chedrauimx.vtexassets.com/arquivos/ids/35729661-1600-auto",
     "lastChecked": "2024-09-13T08:58:05.766Z"
   },
   {
     "name": "Jitomate Saladet",
     "description": "Por kilo",
-    "price": 0,
+    "price": 34.90,
     "store": "Bodega Aurrera",
+    "imageUrl": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00000000004087L.jpg",
     "lastChecked": "2024-09-13T08:58:07.489Z"
   },
   {
     "name": "Jitomate Saladet",
     "description": "Por kilo",
-    "price": 0,
+    "price": 33.90,
     "store": "La Comer",
+    "imageUrl": "https://www.lacomer.com.mx/superc/img_art/31516_3.jpg",
     "lastChecked": "2024-09-13T08:58:07.886Z"
   }
 ]

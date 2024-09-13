@@ -3,5 +3,6 @@ export interface Price {
     description: string;
     price: number;
     store: string;
+    imageUrl: string;
     lastChecked: string;
 }
